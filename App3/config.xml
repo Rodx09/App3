@@ -9,7 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-<icon src="image/logofimaz.png" gap:density="ldpi" gap:platform="android" />
+	<icon src="image/logofimaz.png" gap:density="ldpi" gap:platform="android" />
 <icon src="image/logofimaz.png" gap:density="mdpi" gap:platform="android" />
 <icon src="image/logofimaz.png" gap:density="hdpi" gap:platform="android" />
 <icon src="image/logofimaz.png" gap:density="xhdpi" gap:platform="android" />
